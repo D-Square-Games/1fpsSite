@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791673396|9545303';
+const CACHE_VERSION = '1791716549|16655502';
 /** @type {string} */
 const CACHE_PREFIX = 'NEPA Wahala-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
